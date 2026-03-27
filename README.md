@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=84&section=header"/>
 
 **CapolupoF/CapolupoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
