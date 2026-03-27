@@ -84,10 +84,9 @@ Aqui está um resumo do que venho estudando ao longo do curso:
 ```python
 capolupo = {
     "cursando":     "Análise e Desenvolvimento de Sistemas – 5º Semestre",
-    "aprendendo":   ["Cloud AWS", "Cybersecurity", "RPA", "Flutter"],
+    "aprendendo":   ["Business Agility", "Cybersecurity", "RPA", "Flutter"],
     "construindo":  "Projetos Full Stack com React + Python/Flask",
     "buscando":     "Oportunidades em Desenvolvimento de Software",
-    "dream":        "Palmeiras Campeão do Mundial 🏆"
 }
 ```
 
