@@ -52,11 +52,11 @@ Aqui está um resumo do que venho estudando ao longo do curso:
 
 | Semestre | Foco Principal |
 |:--------:|:--------------|
-| 🟢 **1º** | Fundamentos de Banco de Dados · Python · Lógica de Programação · UX & Design Thinking |
-| 🟢 **2º** | Desenvolvimento Web (HTML, CSS, JS, Flask) · SQL · POO · Engenharia de Software |
-| 🟢 **3º** | APIs & Microsserviços · DevOps · Estruturas de Dados · Análise e Modelagem de Sistemas |
-| 🟢 **4º** | Full Stack (React + Python) · Mobile (Android + Flutter) · Testes de Software (TDD, BDD) |
-| 🔵 **5º** | Business Agility · Cybersecurity · RPA · Software Product |
+| 🟢 **1º** | Fundamentos de Banco de Dados · Lógica de Programação · Linguagem da Programação · Matemática Aplicada · Soft Skills |
+| 🟢 **2º** | Desenvolvimento Web (HTML, CSS, JS, Flask) · SQL · POO · Ambientes Operacionais (AWS) · Engenharia de Software |
+| 🟢 **3º** | APIs & Microsserviços · DevOps · Mobile (Android + Flutter) · Engenharia de Requisitos |
+| 🟢 **4º** | Full Stack (React + Python) · RPA · · UX & Design Thinking  · Análise e Modelagem de Sistemas · Software Product |
+| 🔵 **5º** | Business Agility · Cybersecurity · Automação de Testes · Analíse Exploratória de Dados · Software Product |
 
 ---
 
